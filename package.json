@@ -5,7 +5,11 @@
   "keywords": ["say", "tts", "hook.io", "speech"],
   "version": "0.1.0",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/mmalecki/hook.io-say.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmalecki/hook.io-say/issues"
   },
   "engines": {
     "node": ">= 0.4"
