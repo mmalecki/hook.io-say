@@ -2,7 +2,7 @@
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
   "name": "hook.io-say",
   "description": "hook.io interface to say.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "url": ""
   },
