@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var Say = require('../lib/say').Say;
+
+var hook = new Say({
+  name: 'say-hook',
+  debug: true
+});
+hook.start();
+
