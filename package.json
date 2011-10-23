@@ -4,6 +4,7 @@
   "description": "hook.io interface to say.js",
   "keywords": ["say", "tts", "hook.io", "speech"],
   "version": "0.1.0",
+  "main": "./lib/say.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mmalecki/hook.io-say.git"
