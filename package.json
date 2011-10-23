@@ -2,8 +2,13 @@
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
   "name": "hook.io-say",
   "description": "hook.io interface to say.js",
-  "keywords": ["say", "tts", "hook.io", "speech"],
-  "version": "0.1.0",
+  "keywords": [
+    "say",
+    "tts",
+    "hook.io",
+    "speech"
+  ],
+  "version": "0.1.1",
   "main": "./lib/say.js",
   "repository": {
     "type": "git",
@@ -21,4 +26,3 @@
   },
   "devDependencies": {}
 }
-
